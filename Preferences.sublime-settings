@@ -1,0 +1,10 @@
+{
+	"always_show_minimap_viewport": true,
+	"color_scheme": "Packages/Theme - Lyte/Lyte-Solarized-Light/Lyte-Solarized-Light.tmTheme",
+	"draw_minimap_border": true,
+	"draw_white_space": "all",
+	"font_face": "Noto Sans Mono",
+	"font_size": 8,
+	"theme": "Default.sublime-theme",
+	"word_wrap": "true"
+}
