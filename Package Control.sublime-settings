@@ -6,9 +6,9 @@
 	"installed_packages":
 	[
 		"10% Too Dull for My Tastes Color Scheme",
-	    "AutoHotkey",
-	    "INI",
-	    "Package Control",
+		"AutoHotkey",
+		"INI",
+		"Package Control",
 		"sublime_zk",
 		"Theme - Lyte"
 	],
