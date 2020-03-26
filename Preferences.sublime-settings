@@ -9,7 +9,7 @@
 	[
 		"Vintage"
 	],
-	"theme": "Adaptive.sublime-theme"
+	"theme": "Adaptive.sublime-theme",
 	//"theme": "Default.sublime-theme",
 	"word_wrap": "true"
 }
