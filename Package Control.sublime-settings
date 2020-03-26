@@ -5,9 +5,15 @@
 	],
 	"installed_packages":
 	[
-		"AutoHotkey",
-		"INI",
-		"Package Control",
+		"10% Too Dull for My Tastes Color Scheme",
+	    "AutoHotkey",
+	    "INI",
+	    "Package Control",
+		"sublime_zk",
 		"Theme - Lyte"
+	],
+	"repositories":
+	[
+		"https://github.com/renerocksai/sublime_zk"
 	]
 }
