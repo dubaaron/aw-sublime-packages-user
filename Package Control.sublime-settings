@@ -6,11 +6,15 @@
 	"installed_packages":
 	[
 		"10% Too Dull for My Tastes Color Scheme",
+		"A File Icon",
 		"AutoHotkey",
+		"ayu",
+		"Base16 Color Schemes",
 		"INI",
 		"Package Control",
 		"sublime_zk",
-		"Theme - Lyte"
+		"Theme - Lyte",
+		"Theme - Numix Light"
 	],
 	"repositories":
 	[

@@ -1,15 +1,21 @@
 {
 	"always_show_minimap_viewport": true,
-	"color_scheme": "Packages/sublime_zk/Solarized (Light) - ZK.tmTheme",
+	"color_scheme": "Packages/Base16 Color Schemes/Themes/base16-summerfruit-light.tmTheme",
 	"draw_minimap_border": true,
 	"draw_white_space": "all",
 	"font_face": "Noto Sans Mono",
 	"font_size": 10,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"theme": "Adaptive.sublime-theme",
-	//"theme": "Default.sublime-theme",
-	"word_wrap": "true"
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"save_on_focus_lost": true,
+	"theme": "Default.sublime-theme",
+	"word_wrap": "true",
+	"wrap_width": 0
 }
